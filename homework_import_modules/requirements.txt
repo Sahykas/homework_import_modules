@@ -1,0 +1,2 @@
+datetime
+scrapy==2.11.0
